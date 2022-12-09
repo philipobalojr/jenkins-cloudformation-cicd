@@ -15,6 +15,10 @@
 - IAM Role: Assign an EC2 Role with Administrator Access (This would be used to provision the environment granting Jenkins Authorization)
 - Update the security group and open port `8080` to `0.0.0.0/0`
 
+## Installing Jenkins
+-https://www.jenkins.io/doc/tutorials/tutorial-for-installing-jenkins-on-AWS/#downloading-and-installing-jenkins
+-put needed code to install jenkins on the userdata and lunch EC2
+
 ## Join the JJTech-Eagles-CI/CD DevOps Workspace Using The Following URL
 - https://join.slack.com/t/newworkspace-mtx6785/shared_invite/zt-1go3k7pz7-uSy3D4ai3Pb7KJk2G1sc1g
 - You can either join though the browser or your local Slack App
