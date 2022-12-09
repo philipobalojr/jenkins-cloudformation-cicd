@@ -8,3 +8,6 @@ sudo yum install jenkins -y
 sudo systemctl enable jenkins
 sudo systemctl start jenkins
 systemctl status jenkins
+
+## Installing Git
+sudo yum install git -y
